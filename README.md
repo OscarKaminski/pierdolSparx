@@ -1,7 +1,7 @@
 # pierdolSparx
 A browser extension that improves Sparx Maths.
 
-### How to Install
+## How to Install
 #### Step 1
 ![enter image description here](https://raw.githubusercontent.com/OscarKaminski/pierdolSparx/refs/heads/main/README-assets/Screenshot%202025-09-27%20151739.png)
 Go to the releases section on GitHub.
